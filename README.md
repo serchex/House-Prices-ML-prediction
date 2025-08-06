@@ -52,7 +52,8 @@ source env/bin/activate  # or .\env\Scripts\activate on Windows
 pip install -r requirements.txt
 streamlit run app.py
 📊 Performance (public score in kaggle)
-<img width="1258" height="86" alt="image" src="https://github.com/user-attachments/assets/c9a67460-ebf1-41f0-8c0e-e9131f761ca4" />
+![App demo](https://i.imgur.com/xxxxxxx.png)
+
 
 CatBoost outperformed other tested models by [brief statement of improvement].
 
@@ -87,3 +88,4 @@ Streamlit for making deployment easy and free
 
 📩 Contact
 Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+
