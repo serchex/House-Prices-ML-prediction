@@ -41,7 +41,7 @@ allowing users to input home features and get instant price predictions.
 ---
 
 ## 📊 Performance (public score in kaggle)
-![App demo](https://imgur.com/a/AboJTv8.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/p0HTbNf" data-context="false" ><a href="//imgur.com/a/p0HTbNf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 ## ⚙️ Setup Instructions
@@ -91,6 +91,7 @@ Streamlit for making deployment easy and free
 
 📩 Contact
 Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+
 
 
 
