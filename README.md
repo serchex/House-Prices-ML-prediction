@@ -41,7 +41,7 @@ allowing users to input home features and get instant price predictions.
 ---
 
 ## 📊 Performance (public score in kaggle)
-![App demo]([https://i.imgur.com/xxxxxxx.png](https://imgur.com/a/AboJTv8))
+![App demo](https://imgur.com/a/AboJTv8.png)
 
 ---
 ## ⚙️ Setup Instructions
@@ -91,5 +91,6 @@ Streamlit for making deployment easy and free
 
 📩 Contact
 Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+
 
 
