@@ -41,7 +41,7 @@ allowing users to input home features and get instant price predictions.
 ---
 
 ## 📊 Performance (public score in kaggle)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/p0HTbNf" data-context="false" ><a href="//imgur.com/a/p0HTbNf"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Demo](https://i.imgur.com/a/p0HTbNf.png)
 
 ---
 ## ⚙️ Setup Instructions
