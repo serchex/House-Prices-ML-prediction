@@ -41,8 +41,7 @@ allowing users to input home features and get instant price predictions.
 ---
 
 ## 📊 Performance (public score in kaggle)
-
-
+<img width="1257" height="86" alt="Image" src="https://github.com/user-attachments/assets/bc09e202-106c-4f67-af87-71d60145ec7d" />
 ---
 ## ⚙️ Setup Instructions
 
@@ -91,6 +90,7 @@ Streamlit for making deployment easy and free
 
 📩 Contact
 Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+
 
 
 
