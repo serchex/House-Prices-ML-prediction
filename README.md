@@ -69,9 +69,7 @@ Includes interactive deployment via Streamlit Cloud
 Ideal for showcasing skills to recruiters and tech teams
 
 📺 Video Guides
-Video 1 (Demo): Shows the app running and making real-time predictions
 
-Video 2 (Technical Explanation): Covers dataset, feature engineering, model selection, tuning, and deployment process
 
 📚 Technologies Used
 Python (pandas, numpy, scikit-learn, CatBoost, joblib)
@@ -89,7 +87,8 @@ Kaggle for the Ames Housing dataset
 Streamlit for making deployment easy and free
 
 📩 Contact
-Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+Feel free to reach out at gonzalezsergio2234@gmail.com.
+
 
 
 
