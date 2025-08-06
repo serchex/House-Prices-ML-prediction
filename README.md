@@ -41,7 +41,7 @@ allowing users to input home features and get instant price predictions.
 ---
 
 ## 📊 Performance (public score in kaggle)
-<blockquote class="imgur-embed-pub" lang="en" data-id="SubDQRB"><a href="https://imgur.com/SubDQRB">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ---
 ## ⚙️ Setup Instructions
@@ -91,6 +91,7 @@ Streamlit for making deployment easy and free
 
 📩 Contact
 Feel free to reach out at [your email] or connect via LinkedIn: [your linkedin URL].
+
 
 
 
