@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 import nominal as nom
-import catboost
+
 
 model = joblib.load('models/catboost_model.pkl')
 order = joblib.load('models/feature_order.pkl')
