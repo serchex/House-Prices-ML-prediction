@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import catboost
 import joblib
 import nominal as nom
 
