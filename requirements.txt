@@ -8,5 +8,6 @@ plotly
 scikit-learn
 seaborn
 xgboost
-streamlit==1.30.0
-altair==4.2.2
+streamlit
+altair>=5
+
